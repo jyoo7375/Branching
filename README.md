@@ -43,3 +43,4 @@ Git cheat sheet and branching practice.
 	```
 7. Create pull request on Github
 8. Merge pull request to main
+9. Pull remote main to local main
