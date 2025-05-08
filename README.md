@@ -11,6 +11,7 @@
 * `git log --oneline` - show local commit history, compact format
 * `git config -l` - list configuration of local repository
 * `git config --global -l` - list global configuration of local repository
+* `git version` - show version of installed git
 
 ### Branching Commands
 * `git branch` - list local branches
